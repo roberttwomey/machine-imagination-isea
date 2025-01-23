@@ -1,6 +1,6 @@
 # Description
 
-<h2> <<< <a href="https://streams.radio.co/sfa3d0bc4f/listen">STREAM HERE<a> >>> 1730-1900 CST. January 23, 2025 </h2>
+<h2> <<< <a href="https://streams.radio.co/sfa3d0bc4f/listen">STREAM HERE</a> >>> 1730-1900 CST. January 23, 2025 </h2>
 
 ![alt text](../images/davinci.png)
 
