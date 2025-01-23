@@ -1,6 +1,6 @@
 # Description
 
-<h2> <<< STREAM HERE >>> 1730-1900 CST. January 23, 2025 </h2>
+<h2> <<< <a href="https://streams.radio.co/sfa3d0bc4f/listen">STREAM HERE<a> >>> 1730-1900 CST. January 23, 2025 </h2>
 
 ![alt text](../images/davinci.png)
 
@@ -15,12 +15,15 @@ The evening will also feature an excerpt from the recent PBS documentary Leonard
 Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learning Institute (OLLI at UNL) and the Johnny Carson Center for Emerging Media Arts at UNL. A Speculative Devices and Cohab Labs co-production.
 
 # Team
-- **Ash Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
+- **Ash Eliza Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 - **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Visual Arts, UCSD - [roberttwomey.com](https://roberttwomey.com)<br>
-- Reid Brockmeier
+- Reid
 - Sam
 - Hank
 - Wyatt
+- Hannah
+- Marina
+- Jim
 
 # References
 - Previous [AI Radio Theater performances](../all_episodes.md).
