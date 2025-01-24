@@ -15,15 +15,22 @@ The evening will also feature an excerpt from the recent PBS documentary Leonard
 Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learning Institute (OLLI at UNL) and the Johnny Carson Center for Emerging Media Arts at UNL. A Speculative Devices and Cohab Labs co-production.
 
 # Team
-- **Ash Eliza Smith** - Speculative Devices Lab, Johnny Carson for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
+Team Leads
+- **Ash Eliza Smith** - Speculative Devices Lab, Johnny Carson Center for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 - **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Visual Arts, UCSD - [roberttwomey.com](https://roberttwomey.com)<br>
-- Reid
-- Sam
-- Hank
-- Wyatt
-- Hannah
-- Marina
-- Jim
+- Reid Brockmeier
+- Sam Bendix
+- Olli Jenkins
+- Elaina Franzen
+- Lincoln Graham
+- Wyatt Debben
+- Hannah Rommell
+- Jim Schroeder
+- Marina Kushner
+- Hank Ball
+
+Thank you to our amazing workshop participant/performers from Osher Lifelong Learning Institute at UNL
+
 
 # References
 - Previous [AI Radio Theater performances](../all_episodes.md).
