@@ -18,16 +18,16 @@ Presented by Nebraska Public Media, Sheldon Museum of Art, Osher Lifelong Learni
 Team Leads
 - **Ash Eliza Smith** - Speculative Devices Lab, Johnny Carson Center for Emerging Media Arts, UNL - [asheveryday.com](https://asheveryday.com/)<br>
 - **Robert Twomey** - [Machine Cohabitation Lab](http://cohab-lab.net), Visual Arts, UCSD - [roberttwomey.com](https://roberttwomey.com)<br>
-- Reid Brockmeier
-- Sam Bendix
-- Olli Jenkins
-- Elaina Franzen
-- Lincoln Graham
-- Wyatt Debben
-- Hannah Rommell
-- Jim Schroeder
-- Marina Kushner
-- Hank Ball
+- **Reid Brockmeier**
+- **Sam Bendix**
+- **Olli Jenkins**
+- **Elaina Franzen**
+- **Lincoln Graham**
+- **Wyatt Debben**
+- **Hannah Rommell**
+- **Jim Schroeder**
+- **Marina Kushner**
+- **Hank Ball**
 
 Thank you to our amazing workshop participant/performers from Osher Lifelong Learning Institute at UNL
 
